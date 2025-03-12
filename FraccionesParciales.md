@@ -6,8 +6,9 @@ Las situaciones que nos podemos encontrar son:
 
 ## Factores lineales distintos:
 
-
 $$\frac{P(x)}{(x-a)(x-b)}=\frac{A}{x-a}+\frac{B}{x-b}$$
+#Ejercicios
+$$
 
 ## Factores lineales repetidos:
 
